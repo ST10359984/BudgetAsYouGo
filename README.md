@@ -2,6 +2,9 @@ Budget As You Go
 Overview
 "Budget As You Go" is a personal finance management application designed to help users track their expenses, savings, family budgets, loans, and more. With a clean, easy-to-use interface, users can manage their financial goals and get a summary of their spending habits. This app enables users to make smarter financial decisions and stay on top of their budgets.
 
+Video:
+https//youtube.com/shorts/SfUfmyOVqhg?feature=share
+
 Features
 Login Page: Secure login to access the app.
 Home Screen: Displays a financial summary with quick navigation to various sections.
